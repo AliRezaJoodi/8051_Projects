@@ -5,6 +5,6 @@ I'm uploading my personal old projects on the repository.
 ![](/Pictures/Album.png)
 
 ### List of the Repository
-|Title|Bascom8051|CodeVisionAVR|
+|Title|Bascom8051|mikroC PRO for 8051|
 |:----|:-------:|:-----------:|
 |[]()|-|-|
