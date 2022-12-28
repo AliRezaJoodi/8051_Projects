@@ -1,0 +1,16 @@
+# Operating System folders and files for ignore
+desktop.ini
+
+# Personal folders and files for ignore
+_Pending
+
+# Proteus folders and files for ignore
+Project Backups
+*.workspace
+*.BMP
+
+# Bascom8051 folders and files for ignore
+*.BIN
+*.DBG
+*.fdb
+*.RPT
