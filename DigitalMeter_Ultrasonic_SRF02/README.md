@@ -1,9 +1,9 @@
 ## Digital Meter using SRF02 Ultrasonic Moudle
 	   
-MCU:		AT89S51  
-Frequency:     	11.059200MHz (External Crystal) 
-Display:        16x2 LCD 
-Sensor:		SRF02 Ultrasonic Moudle (I2C Interfacing)   
+MCU:		AT89S51    
+Frequency:     	11.059200MHz (External Crystal)   
+Display:        16x2 LCD   
+Sensor:		SRF02 Ultrasonic Moudle (I2C Interfacing)     
 
 ### Folder and Files Description
 It has included:
