@@ -14,3 +14,17 @@ Project Backups
 *.DBG
 *.fdb
 *.RPT
+
+# mikroC PRO for 8051 folders and files for ignore
+*.bmk
+*.brk
+*.dbg
+*.dct
+*.dlt
+*.log
+*.lst
+*.dic
+*.asm
+*.ini
+*.mcl
+
