@@ -10,7 +10,11 @@ It has included:
 - `Code_Bascom8051` (Code with Basic Language)
 - `Code_Keil C51` (Code with Assembly ãanguage)
 - `Hardware` (Included hardware layers)
+- `Pictures` (Photos Samples Made)
 - `Simulate` (Simulator File)
+
+### Pictures: v1.x
+![](Pictures/v1.x.jpg)
 
 ### Schematic: v1.0
 ![](Hardware/v1.0.png)
