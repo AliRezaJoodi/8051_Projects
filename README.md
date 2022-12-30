@@ -8,7 +8,7 @@ I'm uploading my personal old projects on the repository.
 
 ### List of the Repository
 |Title|Bascom8051|mikroC PRO for 8051|Keil C51|
-|:----|:-------:|:-----------:|
+|:----|:--------:|:-----------------:|:-----------:|
 |[DigitalMeter_Ultrasonic_SRF02](DigitalMeter_Ultrasonic_SRF02)|Y|Y|-|
 |[RelayController_RF_ASK_5CH](RelayController_RF_ASK_5CH)|Y|-|-|
 |[RelayController_LaserPointer_1CH](RelayController_LaserPointer_1CH)|Y|-|Y|
