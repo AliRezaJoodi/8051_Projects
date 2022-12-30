@@ -1,4 +1,4 @@
-## 5CH RF Remote Controller using ASK Module and PT2262 Encoder   
+## 5CH RF Remote Controller Using ASK RF Module and PT2262 Encoder (FixCode)   
 MCU:		AT89S51    
 Frequency:     	8MHz (External Crystal)    
 
