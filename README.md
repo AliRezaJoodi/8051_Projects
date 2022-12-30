@@ -10,4 +10,4 @@ I'm uploading my personal old projects on the repository.
 |Title|Bascom8051|mikroC PRO for 8051|
 |:----|:-------:|:-----------:|
 |[DigitalMeter_Ultrasonic_SRF02](DigitalMeter_Ultrasonic_SRF02)|Y|Y|
-|[RelayController_RF_ASK_5CH](RemoteController_RF_ASK_5CH)|Y|-|
+|[RelayController_RF_ASK_5CH](RelayController_RF_ASK_5CH)|Y|-|
