@@ -1,0 +1,38 @@
+### uVision2 Project, (C) Keil Software
+### Do not modify !
+
+ cExt (*.c)
+ aExt (*.s*; *.src; *.a*)
+ oExt (*.obj)
+ lExt (*.lib)
+ tExt (*.txt; *.h; *.inc)
+ pExt (*.plm)
+ CppX (*.cpp)
+ DaveTm { 0,0,0,0,0,0,0,0 }
+
+Target (Target 1), 0x0000 // Tools: 'MCS-51'
+GRPOPT 1,(Source Group 1),1,0,0
+
+OPTFFF 1,1,2,419430402,0,1,9,0,<.\T2.asm><T2.asm> { 44,0,0,0,2,0,0,0,3,0,0,0,255,255,255,255,255,255,255,255,252,255,255,255,226,255,255,255,22,0,0,0,29,0,0,0,248,2,0,0,82,1,0,0 }
+
+
+TARGOPT 1, (Target 1)
+ CLK51=33000000
+  OPTTT 1,1,1,0
+  OPTHX 0,65535,0,0,0
+  OPTLX 120,65,8,<.\>
+  OPTOX 16
+  OPTLT 1,1,1,0,1,1,0,1,0,0,0,0
+  OPTXL 1,1,1,1,1,1,1,0,0
+  OPTFL 1,0,1
+  OPTAX 255
+  OPTBL 0,(Data Sheet)<DATASHTS\ATMEL\AT89S51_DS.PDF>
+  OPTBL 1,(Instruction Set Manual)<DATASHTS\ATMEL\AT_C51ISM.PDF>
+  OPTDL (S8051.DLL)()(DP51.DLL)(-pAT51)(S8051.DLL)()(TP51.DLL)(-pAT51)
+  OPTDBG 48125,-1,()()()()()()()()()() ()()()()
+  OPTBB 0,0,8,1,0,0,0,0,0,0,<T1.asm>()()
+  OPTDF 0x2
+  OPTLE <>
+  OPTLC <>
+EndOpt
+

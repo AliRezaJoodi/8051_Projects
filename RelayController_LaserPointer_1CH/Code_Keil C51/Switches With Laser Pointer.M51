@@ -1,0 +1,57 @@
+BL51 BANKED LINKER/LOCATER V6.15                                                        11/11/2011  21:28:29  PAGE 1
+
+
+BL51 BANKED LINKER/LOCATER V6.15, INVOKED BY:
+C:\KEIL\C51\BIN\BL51.EXE T2.obj TO Switches With Laser Pointer
+
+
+INPUT MODULES INCLUDED:
+  T2.obj (T2)
+
+
+LINK MAP OF MODULE:  Switches With Laser Pointer (T2)
+
+
+            TYPE    BASE      LENGTH    RELOCATION   SEGMENT NAME
+            -----------------------------------------------------
+
+            * * * * * * *   D A T A   M E M O R Y   * * * * * * *
+            REG     0000H     0008H     ABSOLUTE     "REG BANK 0"
+
+            * * * * * * *   C O D E   M E M O R Y   * * * * * * *
+            CODE    0000H     0018H     ABSOLUTE     
+
+
+
+SYMBOL TABLE OF MODULE:  Switches With Laser Pointer (T2)
+
+  VALUE           TYPE          NAME
+  ----------------------------------
+
+  -------         MODULE        T2
+  C:0006H         SYMBOL        L1
+  C:000EH         SYMBOL        L2
+  D:0080H         SYMBOL        P0
+  D:00A0H         SYMBOL        P2
+  D:00B0H         SYMBOL        P3
+  B:00B0H.4       SYMBOL        RELAY
+  B:0080H.2       SYMBOL        SENSOR_LEFT
+  B:00A0H.5       SYMBOL        SENSOR_RIHT
+  C:0000H         LINE#         10
+  C:0002H         LINE#         11
+  C:0004H         LINE#         12
+  C:0006H         LINE#         14
+  C:0009H         LINE#         15
+  C:000CH         LINE#         16
+  C:000EH         LINE#         18
+  C:0011H         LINE#         19
+  C:0014H         LINE#         20
+  C:0016H         LINE#         21
+  -------         ENDMOD        T2
+
+******************************************************************************
+* RESTRICTED VERSION WITH 0800H BYTE CODE SIZE LIMIT; USED: 0018H BYTE ( 1%) *
+******************************************************************************
+
+Program Size: data=8.0 xdata=0 code=24
+LINK/LOCATE RUN COMPLETE.  0 WARNING(S),  0 ERROR(S)
