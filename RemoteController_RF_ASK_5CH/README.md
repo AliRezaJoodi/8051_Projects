@@ -2,7 +2,7 @@
 MCU:		AT89S51    
 Frequency:     	8MHz (External Crystal)    
 
-Note: This model Used PT2262 for encoder. When we have a MCU, this is not justified. But it was my prototype past years. I knowæ It's easy to encrypt with coding 
+Note: This model Used PT2262 for encoder. When we have a MCU, this is not justified. But it was my prototype past years. I know, It's easy to encrypt with coding 
 
 ### Folder and Files Description
 It has included:
