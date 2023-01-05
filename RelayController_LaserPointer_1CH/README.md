@@ -8,7 +8,7 @@ Note: It's a easy project with 8051 and was a prototype. Although this made usin
 ### Folder and Files Description
 It has included:
 - `Code_Bascom8051` (Code with Basic Language)
-- `Code_Keil C51` (Code with Assembly ãanguage)
+- `Code_Keil C51` (Code with Assembly Language)
 - `Hardware` (Included hardware layers)
 - `Pictures` (Photos Samples Made)
 - `Simulate` (Simulator File)
