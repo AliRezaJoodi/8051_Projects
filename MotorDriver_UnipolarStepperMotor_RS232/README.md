@@ -1,11 +1,11 @@
 ## Unipolar Step Motor Controller with Computer
 	   
 MCU:			AT89S51    
-Frequency:     		11.059200MHz (External Crystal)         
-Computer Interfacing:	TTL UART to RS232 Converter
+Frequency:     		11.059200MHz (External Crystal)           
+Computer Interfacing:	TTL UART to RS232 Converter  
 Computer Software:	Matlab
 
-Note: Microcontroller has the role of UART to parallel converter  
+Note: the microcontroller has the role of UART to parallel converter  
 
 ### Folder and Files Description
 It has included:
