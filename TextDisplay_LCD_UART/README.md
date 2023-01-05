@@ -3,7 +3,7 @@
 MCU:			AT89S51    
 Frequency:     		11.059200MHz (External Crystal)   
 Display:        	16x2 LCD        
-Computer Interfacing:	UART
+Computer Interfacing:	UART  
 Computer Software:	VB6	
 
 ### Folder and Files Description
