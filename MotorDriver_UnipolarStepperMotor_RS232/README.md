@@ -1,11 +1,9 @@
-## Step Motor Controller with Computer
+## Unipolar Step Motor Controller with Computer
 	   
 MCU:			AT89S51    
 Frequency:     		11.059200MHz (External Crystal)         
 Computer Interfacing:	TTL UART to RS232 Converter
-Computer Software:	Matlab	
-Stepper Motor Type:	Unipolar
-Steppe Motor Driver:	ULN2003
+Computer Software:	Matlab
 
 Note: Microcontroller has the role of UART to parallel converter  
 
