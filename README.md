@@ -1,5 +1,5 @@
 ## 8051 Microcontroller Projects
-I'm uploading my personal old projects on the repository.
+I'm uploading my personal projects on the repository.
 
 ### Gallery of the Repository
 ![](DigitalMeter_Ultrasonic_SRF02/Pictures/Album.jpg)
