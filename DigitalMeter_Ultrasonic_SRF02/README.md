@@ -8,7 +8,7 @@ Sensor:		SRF02 Ultrasonic Moudle (I2C Interfacing)
 ### Folder and Files Description
 It has included:
 - `Code_Bascom8051` (Code with Basic Language)
-- `Code_mikroC PRO for 8051` (Code with C Language)
+- `Code_mikroC for 8051` (Code with C Language)
 - `Hardware` (Included hardware layers)
 - `Pictures` (Photos Samples Made)
 

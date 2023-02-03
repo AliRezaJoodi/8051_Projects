@@ -11,8 +11,8 @@ I'm uploading my personal projects on the repository.
 ![](TextDisplay_LCD_UART/Code_VB6/Album.png)
 
 ### List of the Repository
-|Title|Bascom8051|mikroC PRO for 8051|Keil C51|
-|:----|:--------:|:-----------------:|:-----------:|
+|Title|Bascom8051|mikroC for 8051|Keil C51|
+|:----|:--------:|:-------------:|:------:|
 |[DigitalMeter_Ultrasonic_SRF02](DigitalMeter_Ultrasonic_SRF02)|Y|Y|-|
 |[MotorDriver_UnipolarStepperMotor_RS232](MotorDriver_UnipolarStepperMotor_RS232)|Y|-|Y|
 |[RelayController_RF_ASK_5CH](RelayController_RF_ASK_5CH)|Y|-|-|
