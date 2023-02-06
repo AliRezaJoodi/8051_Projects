@@ -10,7 +10,7 @@ I'm uploading my personal projects on the repository.
 
 ![](TextDisplay_LCD_UART/Code_VB6/Album.png)
 
-### List of the Repository
+### Table of Contents
 |Title|Bascom8051|mikroC for 8051|Keil C51|
 |:----|:--------:|:-------------:|:------:|
 |[DigitalMeter_Ultrasonic_SRF02](DigitalMeter_Ultrasonic_SRF02)|Y|Y|-|
