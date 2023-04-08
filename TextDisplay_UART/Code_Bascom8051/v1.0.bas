@@ -5,10 +5,11 @@ $crystal = 11059200
 
 $baud = 9600
 
-Config Lcdpin = Pin , Db4 = P1.4 , Db5 = P1.5 , Db6 = P1.6 , Db7 = P1.7 , E = P3.6 , Rs = P2.3
+Config Lcdpin = Pin , Rs = P1.0 , E = P1.2 , Db4 = P1.4 , Db5 = P1.5 , Db6 = P1.6 , Db7 = P1.7
 Config Lcd = 16 * 2
-Cursor Off
-Cls
+'Cursor On
+Cursor Blink
+'Cls
 
 Dim Row As Byte : Row = 1
 Dim Column1 As Byte : Column1 = 0
@@ -66,7 +67,7 @@ Loop
 
 End
 
-
+'******************************************
 Test1:
-   Cls : Lcd "Typing With USB" : Wait 1 : Cls : Cursor On
+   Cls : Lcd "Typing With USB" : Waitms 500 : Cls : Cursor On
 Return

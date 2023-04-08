@@ -1,4 +1,9 @@
 ## Text Control on the LCD with a computer
+Frame format is
+|Line Command|Text|End Chr|Description|
+|:-----------|:---|:------|:----------|
+|'1'|"Hello World"|13|Display `Hello World` on the first line|
+|'2'|"Hello World"|13|Display `Hello World` on the second line|
 	   
 MCU:			AT89S51    
 Frequency:     		11.059200MHz (External Crystal)   
