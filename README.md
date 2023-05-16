@@ -1,6 +1,6 @@
 ## 8051 Microcontroller Projects
 Note: The projects are my college experience.  
-Note: The projects are prototype and should get better. 
+Note: The projects are prototype and should get better.  
 
 ### Table of Contents
 |Picture|Title|Bascom8051|mikroC for 8051|Keil C51|
