@@ -1,5 +1,4 @@
-## 8051 Microcontroller Projects
-Note: The projects are my college experience.  
+## 8051 Microcontroller Projects 
 Note: The projects are prototype and should get better.  
 
 ### Table of Contents
