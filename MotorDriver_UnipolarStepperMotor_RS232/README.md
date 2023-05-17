@@ -1,4 +1,4 @@
-## Unipolar Step Motor Controller with Computer
+## Unipolar Step Motor Controller With Computer (RS232)
 	   
 MCU:			AT89S51    
 Frequency:     		11.059200MHz (External Crystal)           

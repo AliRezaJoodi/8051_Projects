@@ -1,4 +1,4 @@
-## Digital Meter using SRF02 Ultrasonic Moudle
+## Digital Meter Using A SRF02 Ultrasonic Moudle
 	   
 MCU:		AT89S51    
 Frequency:     	11.059200MHz (External Crystal)   
