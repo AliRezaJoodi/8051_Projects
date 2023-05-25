@@ -1,9 +1,9 @@
 ## 8051 Microcontroller Projects 
 Note: The projects are prototype and should get better.  
 
-1: Bascom 8051
-2: mikroC for 8051
-3: Keil C51
+1: Bascom 8051  
+2: mikroC for 8051  
+3: Keil C51  
 
 ### Table of Contents
 |Picture|Title|1|2|3|
