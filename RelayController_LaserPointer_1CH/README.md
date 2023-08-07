@@ -1,7 +1,7 @@
 ## 1CH Relay Controller With Laser Pointer
-There are one relay and two LDR sensors. One of them activates the relay and the other deactivates it.
-MCU:		AT89S51    
-Frequency:     	11059200MHz (External Crystal)    
+There are one relay and two LDR sensors. One of them activates the relay and the other deactivates it.  
+MCU:		AT89S51  
+Frequency:     	11059200MHz (External Crystal)  
 
 Note: It's a easy project with 8051 and was a prototype. Although this made using microcontroller but, it could be done with logic gates.  
 Note: Included schematic and PCB layout with Proteus  
