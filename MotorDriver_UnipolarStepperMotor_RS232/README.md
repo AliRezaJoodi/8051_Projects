@@ -5,7 +5,7 @@ Frequency:     		11.059200MHz (External Crystal)
 Computer Interfacing:	TTL UART to RS232 Converter  
 Computer Software:	Matlab
 
-Note: the microcontroller has the role of UART to parallel converter  
+Note: the microcontroller's role  is a UART to parallel converter  
 Note: Included schematic and PCB layout with Proteus  
 Note: It's a prototype and should get better  
 
