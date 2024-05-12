@@ -89,7 +89,7 @@
         />
     </td>
     <td>
-        5CH Remote Controller with ASK RF Module (FixCode)<br />
+        5CH Remote Controller with ASK RF Module<br />
         <span style="color:#999">FixCode IC</span> <br />
     </td>
     <td>
