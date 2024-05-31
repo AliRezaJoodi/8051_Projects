@@ -109,10 +109,6 @@ Private Sub Form_Load()
     Combo1.Text = Combo1.List(0)
 End Sub
 
-Private Sub MSComm1_OnComm()
-
-End Sub
-
 Private Sub Text1_KeyPress(KeyAscii As Integer)
     If KeyAscii = 27 Then Text1.Text = ""
         CPN = Val(Combo1.Text): MSComm1.CommPort = CPN

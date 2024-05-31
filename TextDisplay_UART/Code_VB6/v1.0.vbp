@@ -6,6 +6,7 @@ Object={FE0065C0-1B7B-11CF-9D53-00AA003C9CB6}#1.1#0; COMCT232.OCX
 IconForm="Form1"
 Startup="Form1"
 ExeName32="Typing on the LCD.exe"
+Path32="C:\Users\Home\Desktop"
 Command32=""
 Name="Project1"
 HelpContextID="0"
